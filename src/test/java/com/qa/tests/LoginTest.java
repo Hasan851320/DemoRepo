@@ -1,9 +1,11 @@
 package com.qa.tests;
 
+import org.junit.Test;
+
 public class LoginTest {
 
    
-   Test
+   @Test
    public void test() {
 
      System.out.println("test1");

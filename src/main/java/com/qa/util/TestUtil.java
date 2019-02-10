@@ -7,8 +7,11 @@ public class TestUtil {
 
       System.out.println("test util");
 
+  }
 
+      public static void main() {
 
+          System.out.println("test util1");
 
 
 
